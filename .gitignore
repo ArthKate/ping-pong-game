@@ -1,0 +1,3 @@
+# User ignored files and directories start here!
+node_modules/*
+.vscode/*
